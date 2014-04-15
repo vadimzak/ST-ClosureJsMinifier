@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Minify JavaScript",
+        "command": "minify"
+    },
+    {
+        "caption": "Obfuscate JavaScript",
+        "command": "obfuscate"
+    }
+]

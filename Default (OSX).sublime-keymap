@@ -1,0 +1,8 @@
+[
+    {
+        "keys": ["ctrl+alt+j"], "command": "minify"
+    },
+    {
+        "keys": ["ctrl+alt+shift+j"], "command": "obfuscate"
+    }
+]
